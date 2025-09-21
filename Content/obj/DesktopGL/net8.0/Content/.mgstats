@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/laura/RiderProjects/Spaceship/Content/asteroid.png","/Users/laura/RiderProjects/Spaceship/Content/bin/DesktopGL/Content/asteroid.xnb","TextureProcessor","Texture2DContent",17495,53893,0.044405
+"/Users/laura/RiderProjects/Spaceship/Content/ship.png","/Users/laura/RiderProjects/Spaceship/Content/bin/DesktopGL/Content/ship.xnb","TextureProcessor","Texture2DContent",3015,27285,0.001276
+"/Users/laura/RiderProjects/Spaceship/Content/space.png","/Users/laura/RiderProjects/Spaceship/Content/bin/DesktopGL/Content/space.xnb","TextureProcessor","Texture2DContent",1018006,12582997,0.098259
+"/Users/laura/RiderProjects/Spaceship/Content/spaceFont.spritefont","/Users/laura/RiderProjects/Spaceship/Content/bin/DesktopGL/Content/spaceFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,136217,0.071451
+"/Users/laura/RiderProjects/Spaceship/Content/timerFont.spritefont","/Users/laura/RiderProjects/Spaceship/Content/bin/DesktopGL/Content/timerFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70681,0.006378
